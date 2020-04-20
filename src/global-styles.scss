@@ -1,0 +1,9 @@
+$grey-darker: #606060; 
+$grey: #303030;
+html {
+    background: linear-gradient(to right top, $grey-darker, $grey)
+}
+
+html, body {
+    height: 100%;
+}
